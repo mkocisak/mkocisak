@@ -2,7 +2,7 @@
 
 I'm an AI executive, builder, and advisor with a background in scientific computing, trading systems, and machine learning. I’ve led AI and software engineering functions in high-stakes environments and advised investors and operators on how to build smarter systems.
 
-These days, I'm more focused on **what's next** — and how to contribute to it.
+These days, I'm focused on **what's next** — and how to contribute to it.
 
 ---
 
